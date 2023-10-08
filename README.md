@@ -19,6 +19,5 @@ Estou cursando o 1° ano de Desenvolvimento de Sistemas na ETEC.<br>Sou FullStac
 
  
 ---
-[![](https://visitcount.itsvg.in/api?id=beaxx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
