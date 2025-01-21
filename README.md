@@ -1,4 +1,4 @@
-### Olá, eu sou a triz ⭐
+### Olá, eu sou a Beatriz ⭐
 # Sobre mim:
 Estou cursando o 2° ano de Desenvolvimento de Sistemas na ETEC.
 
