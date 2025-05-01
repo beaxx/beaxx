@@ -1,19 +1,22 @@
-### Olá, eu sou a Beatriz ⭐
-# Sobre mim:
-Estou cursando o 3° ano de Desenvolvimento de Sistemas na ETEC SJC.
+# Olá, eu sou a Beatriz! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
 
-# 💻 Linguagens :
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="ilustração de um computador" width="400px" align="right" />
+
+<br>
+
+<div>
+Estou no 3º ano do curso técnico de Desenvolvimento de Sistemas na ETEC de São José dos Campos, onde venho construindo minha base na área da tecnologia.  
+Sou desenvolvedora full-stack em formação, com um carinho especial pelo front-end e design — adoro criar interfaces que sejam intuitivas e que proporcionam uma boa experiência para quem usa.  <br>
+Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lógica, o back, o front e as artes.
+</div>
 
 
-# 📊 Status :
-![](https://github-readme-streak-stats.herokuapp.com/?user=beaxx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beaxx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+## 💻 Minhas Skills :
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,react,mysql,python,c#)](https://skillicons.dev)
  
-# PROGRAMAS :
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+## ⚙️ Ferramentas :
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,github,notion)](https://skillicons.dev)
 
----
+## 📊 Status :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beaxx&layout=compact&theme=dark)](https://github.com/beaxx/github-readme-stats)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
