@@ -5,9 +5,9 @@
 <br>
 
 <div>
- <p text-align="justify">Estou no 3º ano do curso técnico de Desenvolvimento de Sistemas na ETEC de São José dos Campos, onde venho construindo minha base na área da tecnologia.  
+Estou no 3º ano do curso técnico de Desenvolvimento de Sistemas na ETEC de São José dos Campos, onde venho construindo minha base na área da tecnologia.  
 Sou desenvolvedora full-stack em formação, com um carinho especial pelo front-end e design — adoro criar interfaces que sejam intuitivas e que proporcionam uma boa experiência para quem usa.  <br>
-Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lógica, o back, o front e as artes.</p>
+Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lógica, o back, o front e as artes.
 
 </div>
 
@@ -19,5 +19,10 @@ Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lóg
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,github,notion)](https://skillicons.dev)
 
 ## 📊 Status :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beaxx&layout=compact&theme=dark)](https://github.com/beaxx/github-readme-stats)
 
+<a href="https://github.com/beaxx/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beaxx&theme=dark&hide=issues,prs"/>
+</a>
+<a href="https://github.com/beaxx/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beaxx&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
