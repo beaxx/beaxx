@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <td style="width: 60%; vertical-align: top;">
+    <td style="width: 40%; vertical-align: top;">
       <p align="justify">
         Estou no 3º ano do curso técnico de Desenvolvimento de Sistemas na ETEC de São José dos Campos, onde venho construindo minha base na área da tecnologia.  
         Sou desenvolvedora full-stack em formação, com um carinho especial pelo front-end e design — adoro criar interfaces que sejam intuitivas e que proporcionam uma boa experiência para quem usa.  
         Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lógica, o back, o front e as artes.
       </p>
     </td>
-    <td style="width: 40%; padding-left: 40px;"> <!-- AUMENTE O PADDING AQUI -->
+    <td style="width: 60%"> <!-- AUMENTE O PADDING AQUI -->
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="ilustração de um computador" width="100%" />
     </td>
   </tr>
