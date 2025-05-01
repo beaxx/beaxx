@@ -5,9 +5,10 @@
 <br>
 
 <div>
-Estou no 3º ano do curso técnico de Desenvolvimento de Sistemas na ETEC de São José dos Campos, onde venho construindo minha base na área da tecnologia.  
+ <p text-align="justify">Estou no 3º ano do curso técnico de Desenvolvimento de Sistemas na ETEC de São José dos Campos, onde venho construindo minha base na área da tecnologia.  
 Sou desenvolvedora full-stack em formação, com um carinho especial pelo front-end e design — adoro criar interfaces que sejam intuitivas e que proporcionam uma boa experiência para quem usa.  <br>
-Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lógica, o back, o front e as artes.
+Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lógica, o back, o front e as artes.</p>
+
 </div>
 
 
