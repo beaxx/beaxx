@@ -25,10 +25,6 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,github,notion)](https://skillicons.dev)
 
 ## 📊 Status :
-
-<a href="https://github.com/beaxx/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beaxx&theme=dark&hide=issues,prs"/>
-</a>
 <a href="https://github.com/beaxx/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beaxx&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
