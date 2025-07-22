@@ -7,10 +7,10 @@ Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lóg
 </p>
 
 ## 💻 Minhas Skills :
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,react,mysql,python,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,react,mysql,react,)](https://skillicons.dev)
  
 ## ⚙️ Ferramentas :
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,github,notion,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,github,git,notion,firebase,supabase,bootstrap)](https://skillicons.dev)
 
 ## 📊 Status :
 <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beaxx&layout=compact&langs_count=8&card_width=320&theme=dark" />
