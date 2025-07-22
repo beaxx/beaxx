@@ -7,7 +7,7 @@ Nas horas vagas, gosto de desenvolver jogos como hobby, melhorando sempre a lóg
 </p>
 
 ## 💻 Minhas Skills :
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,react,mysql,react,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,react,mysql,)](https://skillicons.dev)
  
 ## ⚙️ Ferramentas :
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,github,git,notion,firebase,supabase,bootstrap)](https://skillicons.dev)
